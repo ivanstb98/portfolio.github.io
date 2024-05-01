@@ -20,6 +20,6 @@ Google Data Analytics Professional Certificate
 Cambridge English Qualification | B1 Preliminary
 
 ## Languages
-Italian : native
-English : intermediate
+Italian : native,
+English : intermediate,
 Spanish : fluent
