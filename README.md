@@ -17,7 +17,7 @@ Data Analytics | Data visualization | Python | R | SQL | Tableau
   - Immersive understanding of the practices and processes used by a Junior Data Analyst in their day-to-day job.
   - Understand how to clean, organize, and visualize data for analysis with Google sheets, SQL, R, and Tableau.
 
-**Cambridge English Qualification | B1 Preliminary**
+**Cambridge English Qualification B1 Preliminary**
 
 ## Languages
 Italian : native,
