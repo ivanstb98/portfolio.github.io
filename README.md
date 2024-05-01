@@ -12,7 +12,7 @@ BSc Quantitative Statistics, Università degli Studi di Siena
   - Skilled in analyzing economic and financial data using advanced statistical techniques.
   - Experienced in econometrics, financial modeling, and quantitative analysis.
 
-##C ertification
+## Certification
 Google Data Analytics Professional Certificate
   - Immersive understanding of the practices and processes used by a Junior Data Analyst in their day-to-day job.
   - Understand how to clean, organize, and visualize data for analysis with Google sheets, SQL, R, and Tableau.
