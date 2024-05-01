@@ -1,7 +1,7 @@
 # Data Analyst
 
 ## Career Objective
-Motivated and analytical-minded Junior Data Anlyst seeking to utilize my skills in data analytics, data interpretation, and data visualization to support business objectives. Eager to apply my knowledge in data manipulation, data cleaning, and database management to extract valuable insights and drive informed decision-making. Dedicated to contributing to a collaborative team environment while continously enhancing my expertise in data analysis methodologies.
+Motivated and analytical-minded Junior Data Analyst seeking to utilize my skills in data analytics, data interpretation, and data visualization to support business objectives. Eager to apply my knowledge in data manipulation, data cleaning, and database management to extract valuable insights and drive informed decision-making. Dedicated to contributing to a collaborative team environment while continously enhancing my expertise in data analysis methodologies.
 
 ## Skills
 Data Analytics | Data visualization | Python | R | SQL | Tableau
